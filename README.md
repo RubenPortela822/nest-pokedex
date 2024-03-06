@@ -17,6 +17,10 @@ npm i -g -@nestjs/cli
 ```
 docker-compose up -d
 ```
+5. Cargar seed en la DB 
+```
+localhost:3000/api/seed
+```
 
 ## Stack usado
 * NestJs
